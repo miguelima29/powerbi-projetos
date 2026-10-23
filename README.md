@@ -11,7 +11,6 @@ Este espaço reúne dashboards interativos, análises de dados e soluções de B
 | Projeto | Descrição | Principais Recursos | Links / Arquivos |
 | :--- | :--- | :--- | :---: |
 | **Relatório de Vendas - Outlet Chiclete** | Análise de desempenho comercial, faturamento, ticket médio, margem de lucro e formas de pagamento. | Filtros dinâmicos, análise temporal (2022/2023), mapas de distribuição geográfica e KPIs. | [Ver Pasta](./outlet-chiclete/) |
-| *(Novo Projeto)* | *Descrição breve do projeto...* | *Tecnologias/Medidas usadas...* | *Link* |
 
 ---
 
