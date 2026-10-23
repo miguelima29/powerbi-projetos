@@ -8,6 +8,7 @@ Painel interativo de análise de vendas desenvolvido no **Microsoft Power BI** p
 
 O relatório foi estruturado com foco em **Business Intelligence (BI)** para fornecer uma visão clara, dinâmica e orientada a dados sobre o faturamento, custos, lucro e comportamento de compra dos clientes.
 
+<img width="1505" height="847" alt="image" src="https://github.com/user-attachments/assets/8b5682d0-7a97-4edf-b13a-e4b1e9cfa2c3" />
 
 ---
 
